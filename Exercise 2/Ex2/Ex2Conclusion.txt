@@ -1,0 +1,6 @@
+We realised that the Greedy Algorithem selects the better features but its run time
+is slower than the Mutual Information Algorithm's runtime meaning MI is faster than
+the Greedy Algorithem but that doesnt mean it selects the better features and has higher
+accuracy.
+Overall the Better Accuray and better selecting features is from the Greedy Algorithem
+but the better runtime is the MI's
